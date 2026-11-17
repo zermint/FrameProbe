@@ -1,0 +1,11 @@
+{
+	"geode": "5.11.1",
+	"gd": {
+		"win": "2.2081"
+	},
+	"id": "zermint.frameprobe",
+	"name": "FrameProbe",
+	"version": "v0.1.0",
+	"developer": "Zermint",
+	"description": "Diagnostic: logs where frame time goes in heavy levels (move actions, effects, pulses, color calls)."
+}
